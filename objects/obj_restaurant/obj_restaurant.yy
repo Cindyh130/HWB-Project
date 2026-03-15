@@ -1,15 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"Object2",
+  "%Name":"obj_restaurant",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"Object2",
+  "name":"obj_restaurant",
   "overriddenProperties":[],
   "parent":{
-    "name":"EWB Game",
-    "path":"EWB Game.yyp",
+    "name":"objects_mainCity",
+    "path":"folders/City/objects_mainCity.yy",
   },
   "parentObjectId":null,
   "persistent":false,
