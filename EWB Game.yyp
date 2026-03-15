@@ -23,8 +23,11 @@
     {"id":{"name":"Object1","path":"objects/Object1/Object1.yy",},},
     {"id":{"name":"Object2","path":"objects/Object2/Object2.yy",},},
     {"id":{"name":"rm_intro","path":"rooms/rm_intro/rm_intro.yy",},},
+    {"id":{"name":"rm_place","path":"rooms/rm_place/rm_place.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"cityBG","path":"sprites/cityBG/cityBG.yy",},},
+    {"id":{"name":"placeBG","path":"sprites/placeBG/placeBG.yy",},},
+    {"id":{"name":"spr_guide","path":"sprites/spr_guide/spr_guide.yy",},},
     {"id":{"name":"spr_intro","path":"sprites/spr_intro/spr_intro.yy",},},
     {"id":{"name":"spr_path","path":"sprites/spr_path/spr_path.yy",},},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},},
@@ -36,6 +39,7 @@
   "RoomOrderNodes":[
     {"roomId":{"name":"rm_intro","path":"rooms/rm_intro/rm_intro.yy",},},
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"rm_place","path":"rooms/rm_place/rm_place.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
