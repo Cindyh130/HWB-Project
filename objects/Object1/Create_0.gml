@@ -3,4 +3,4 @@ vspeed = 0;
 groundY = y;
 gravity = 0;
 
-moveSpd = 2;
+moveSpd = 1.7;
