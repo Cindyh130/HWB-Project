@@ -15,7 +15,7 @@ if (image_index == 7 || image_index == 8 || image_index == 9 || image_index == 1
 }
 
 if (image_index >= image_number) {
-	room_goto(Room1);
+	room_goto(rm_city);
 }
 
 //PANEL 1 → pan
