@@ -1,11 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"Object2",
+  "%Name":"obj_keyIndicator",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"Object2",
+  "name":"obj_keyIndicator",
   "overriddenProperties":[],
   "parent":{
     "name":"EWB Game",
@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_restaurant",
-    "path":"sprites/spr_restaurant/spr_restaurant.yy",
+    "name":"spr_keyIndicator",
+    "path":"sprites/spr_keyIndicator/spr_keyIndicator.yy",
   },
   "spriteMaskId":null,
   "visible":true,
