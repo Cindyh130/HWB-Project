@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"EWB Game",
-    "path":"EWB Game.yyp",
+    "name":"City",
+    "path":"folders/City.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

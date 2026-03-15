@@ -1,13 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"Object5",
-  "eventList":[],
+  "%Name":"obj_dialogueBox",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"Object5",
+  "name":"obj_dialogueBox",
   "overriddenProperties":[],
   "parent":{
-    "name":"EWB Game",
-    "path":"EWB Game.yyp",
+    "name":"objects_mainCity",
+    "path":"folders/City/objects_mainCity.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"dialogueBox1",
-    "path":"sprites/dialogueBox1/dialogueBox1.yy",
+    "name":"spr_dialogueBox",
+    "path":"sprites/spr_dialogueBox/spr_dialogueBox.yy",
   },
   "spriteMaskId":null,
   "visible":true,

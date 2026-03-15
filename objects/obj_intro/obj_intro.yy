@@ -10,8 +10,8 @@
   "name":"obj_intro",
   "overriddenProperties":[],
   "parent":{
-    "name":"EWB Game",
-    "path":"EWB Game.yyp",
+    "name":"Intro",
+    "path":"folders/Intro.yy",
   },
   "parentObjectId":null,
   "persistent":false,

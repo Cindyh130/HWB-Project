@@ -8,8 +8,8 @@
   "name":"obj_keyIndicator",
   "overriddenProperties":[],
   "parent":{
-    "name":"EWB Game",
-    "path":"EWB Game.yyp",
+    "name":"objects_mainCity",
+    "path":"folders/City/objects_mainCity.yy",
   },
   "parentObjectId":null,
   "persistent":false,
