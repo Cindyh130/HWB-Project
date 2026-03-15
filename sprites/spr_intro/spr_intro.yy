@@ -39,8 +39,8 @@
   "nineSlice":null,
   "origin":4,
   "parent":{
-    "name":"EWB Game",
-    "path":"EWB Game.yyp",
+    "name":"Intro",
+    "path":"folders/Intro.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
